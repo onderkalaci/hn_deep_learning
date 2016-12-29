@@ -1,6 +1,6 @@
 # Popular HN Deep Learning Stroies
 
-Recently, I've seen many stories discussing Deep Learning on HN. Thus, I decided to compile them on a github page. Hope this helps!
+Recently, I've seen many stories discussing Deep Learning on HN. Thus, I decided to compile them on a github repo. Hope this helps!
 
 
 
@@ -30,4 +30,16 @@ Recently, I've seen many stories discussing Deep Learning on HN. Thus, I decided
 * [Miles Deep – Open Source Porn Video Classifier/Editor with Deep Learning](https://github.com/ryanjay0/miles-deep)
 * [How to Start Learning Deep Learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)
 * [Large Scale Deep Learning – Jeff Dean [pdf]](http://static.googleusercontent.com/media/research.google.com/en/us/people/jeff/CIKM-keynote-Nov2014.pdf)
-
+* [Deep Learning: An MIT Press Book in Preparation](http://www.iangoodfellow.com/dlbook/)
+* [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)
+* [Deep Learning is Easy - Learn Something Harder](http://www.inference.vc/deep-learning-is-easy/)
+* [Wide and Deep Learning: Better Together with TensorFlow](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
+* [Radeon Instinct – Optimized Machine and Deep Learning](http://radeon.com/en-us/instinct/)
+* [Paddle: Baidu's open source deep learning framework](https://github.com/PaddlePaddle/Paddle)
+* [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
+* [What is the difference between deep learning and usual machine learning?](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/difference-deep-and-normal-learning.md)
+* [Deep Learning with Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
+* [Neural Enhance – Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
+* [‘Deep learning’ technique enables robot mastery of skills via trial and error](http://news.berkeley.edu/2015/05/21/deep-learning-robot-masters-skills-via-trial-and-error/)
+* [Tensorflow and Deep Learning, Without a PhD, Martin Gorner, Google [video]](https://www.youtube.com/watch?v=sEciSlAClL8)
+* [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
